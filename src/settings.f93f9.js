@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/editor.fire",orientation:"",jsList:[],bundleVers:{internal:"d17e2",resources:"b69eb",main:"78d5c"}};
